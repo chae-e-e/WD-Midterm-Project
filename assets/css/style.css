@@ -7,7 +7,7 @@
 body {
     font-family: 'Helvetica', sans-serif;
     line-height: 1.6;
-    background-image: url(../assets/img/bg.jpg);
+    background-image: url(../../assets/img/bg.jpg);
     background-size: cover;
     color: black;
     display: flex;
